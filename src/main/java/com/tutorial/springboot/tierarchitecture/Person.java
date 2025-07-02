@@ -1,4 +1,4 @@
-package com.tutorial.springboot.model;
+package com.tutorial.springboot.tierarchitecture;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,7 +1,5 @@
-package com.tutorial.springboot.service;
+package com.tutorial.springboot.tierarchitecture;
 
-import com.tutorial.springboot.model.Person;
-import com.tutorial.springboot.repository.PersonRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

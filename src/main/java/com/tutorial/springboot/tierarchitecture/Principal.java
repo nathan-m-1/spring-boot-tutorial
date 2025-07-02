@@ -1,4 +1,4 @@
-package com.tutorial.springboot.controller;
+package com.tutorial.springboot.tierarchitecture;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

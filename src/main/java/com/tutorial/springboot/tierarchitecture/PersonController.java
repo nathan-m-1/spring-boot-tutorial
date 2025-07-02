@@ -1,7 +1,5 @@
-package com.tutorial.springboot.controller;
+package com.tutorial.springboot.tierarchitecture;
 
-import com.tutorial.springboot.model.Person;
-import com.tutorial.springboot.service.PersonService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

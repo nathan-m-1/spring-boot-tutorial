@@ -1,6 +1,4 @@
-package com.tutorial.springboot.service;
-
-import com.tutorial.springboot.model.Person;
+package com.tutorial.springboot.tierarchitecture;
 
 import java.util.List;
 
