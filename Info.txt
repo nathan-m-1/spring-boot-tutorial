@@ -1,0 +1,5 @@
+Para compilar en local
+mvn clean package "-Dspring.profiles.active=local"
+
+Para arrancar la aplicacion con un profile especifico
+java -jar spring-boot-tutorial-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod
